@@ -1,0 +1,14 @@
+.Wrapper{
+    padding:50px
+}
+.headerTitle{
+    font-size:24px;
+    text-align:center;
+    margin-bottom:50px;
+}
+.todoWrapper{
+    display:grid;
+    gap:15px;
+    grid-template-columns:repeat(4,1fr);
+    
+}
